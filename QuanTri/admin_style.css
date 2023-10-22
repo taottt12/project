@@ -1,0 +1,16 @@
+@charset 'utf-8';
+
+input{
+    width: 250px;
+    height:40px;
+}
+.btn{
+    width: 250px;
+    height: 50px;
+    
+}
+select{
+    width: 250px;
+    height: 40px;
+}
+

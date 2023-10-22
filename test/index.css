@@ -1,0 +1,41 @@
+@charset 'UTF-8';
+
+.menu_top{
+    list-style: none;
+    background-color: rgb(248, 148, 148);
+    color: aliceblue;
+}
+
+.row bg-light{
+    background-color:#2277c2;
+    height: 50px;    
+    color:#ffffff;
+}
+
+.menu_top li{
+    float: left;
+    margin: 15px 10px;
+}
+
+.menu_top a{
+    text-decoration: none;
+}
+
+.menu_top a:hover{
+    color: brown;
+    background-color: aquamarine;
+    
+}
+
+.menu_left{
+    list-style: none;
+}
+
+.menu_left a{
+    text-decoration: none;
+    
+}
+
+.menu_left a:hover{
+    color: brown;
+}
